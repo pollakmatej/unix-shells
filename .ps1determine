@@ -13,6 +13,9 @@
 #     - ksh, colorize ps1 properly
 #
 
+#
+# some comment
+#
 
 # basic data
 HostName=$(hostname | cut -d '.' -f1)
